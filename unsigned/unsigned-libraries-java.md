@@ -5,7 +5,7 @@
 
 Одного, универсального решения, конечно, не существует. На фоне остальных выделяется Google Guava.
 
-|              | Google Guava | jOOU | Apache Axis | OPC Foundation | JNIWrapper | YSTT/Kaitai |
+|              | [Google Guava](https://github.com/google/guava/tree/master/guava/src/com/google/common/primitives) | [jOOU](https://github.com/jOOQ/jOOU/tree/main/jOOU/src/main/java/org/joou) | [Apache Axis](https://github.com/robig/axis2-adb/tree/master/src/main/java/org/apache/axis2/databinding/types) | [OPC Foundation](https://github.com/OPCFoundation/UA-Java-Legacy/tree/master/src/main/java/org/opcfoundation/ua/builtintypes) | [JNIWrapper](https://www.teamdev.com/downloads/jniwrapper/javadoc/com/jniwrapper/package-summary.html) | [YSTT/Kaitai](https://github.com/LeonisX/yoda-stories-translation-tool/blob/main/src/main/java/md/leonis/bin/Dump.java) |
 |     :---:    |     :---:    |     :---:   |     :---:      |     :---:      |     :---:      |     :---:      |
 | Создание     |	***	      | ***         |	*** |	*** |	*** |	*** |
 | Передача     |	***	      | ***         |	*** |	*** |	*** |	- |
@@ -139,7 +139,7 @@ OPC Foundation UA JAVA Legacy
 DIS-Java-VRML
 -------------
 
-Просто набор классов-обёрток, не несущих какой-либо дополнительной функциональности. Проект очень старый, не нашлось даже исходников, лишь JavaDoc.
+Просто набор классов-обёрток, не несущих какой-либо дополнительной функциональности. Проект очень старый, не нашлось даже исходников, лишь [JavaDoc](http://faculty.nps.edu/brutzman/vrtp/javadoc/dis-java-vrml/mil/navy/nps/util/package-summary.html).
 
 
 JNIWrapper 
