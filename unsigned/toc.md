@@ -8,7 +8,4 @@
 * [Беззнаковая арифметика в Java](unsigned-arithmetics-java.md)
 * [Решения для работы с Unsigned числами](unsigned-libraries-java.md)
 
-<div align="center">
-
-[<<< Главная страница](../README.md)
-</div>
+[Вернуться на главную страницу](../README.md)
