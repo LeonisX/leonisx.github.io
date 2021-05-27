@@ -183,5 +183,6 @@ Integer.lowestOneBit()
 *	Простой способ сравнения без головной боли – привести значения к большему типу.
 
 <divp align="center">
-   <a href="integer-overflow.md"><<< Целочисленное переполнение</a> | <a href="toc.md">Оглавление</a> | <a href="unsigned-libraries-java.md">Решения для работы с Unsigned числами >>></a>
+
+[<<< Целочисленное переполнение](integer-overflow.md) | [Оглавление](toc.md) | [Решения для работы с Unsigned числами >>>](unsigned-libraries-java.md)
 </div>
