@@ -15,7 +15,7 @@
 
 Мои разработки:
 
-* [Репозиторий на GitGub](https://github.com/LeonisX)
+* [Репозиторий на GitHub](https://github.com/LeonisX)
 * [http://tv-games.ru](http://tv-games.ru)
 
 Любые комментарии или предложения пишите на почту tv-games@mail.ru
