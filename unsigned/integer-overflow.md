@@ -148,5 +148,5 @@ long
 
 <div align="center">
 	
-   <a href="numbers-operations.md"><<< Арифметические и логические операции</a> | <a href="toc.md">Оглавление</a> | <a href="unsigned-arithmetics-java.md">Беззнаковая арифметика в Java >>></a>
+[<<< Арифметические и логические операции](numbers-operations.md) | [Оглавление](toc.md) | [Беззнаковая арифметика в Java >>>]
 </div>
