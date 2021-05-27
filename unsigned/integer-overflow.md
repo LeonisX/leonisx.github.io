@@ -146,6 +146,6 @@ long
     *	Смещение вправо
     *	Приведение типов
 
-<p align="center">
+<center>
    <a href="numbers-operations.md"><<< Арифметические и логические операции</a> | <a href="toc.md">Оглавление</a> | <a href="unsigned-arithmetics-java.md">Беззнаковая арифметика в Java >>></a>
-</p>
+</center>
