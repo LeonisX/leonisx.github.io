@@ -182,6 +182,6 @@ Integer.lowestOneBit()
 *	Для приведения чисел без знака к большему типу нужно применять маску, например, для short -> long: s & 0xffffL.
 *	Простой способ сравнения без головной боли – привести значения к большему типу.
 
-<p align="center">
+<divp align="center">
    <a href="integer-overflow.md"><<< Целочисленное переполнение</a> | <a href="toc.md">Оглавление</a> | <a href="unsigned-libraries-java.md">Решения для работы с Unsigned числами >>></a>
-</p>
+</div>
