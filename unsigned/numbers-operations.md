@@ -28,5 +28,5 @@
 
 <div align="center">
    
-   <a href="numbers-in-memory.md"><<< Представление чисел в памяти ПК</a> | <a href="toc.md">Оглавление</a> | <a href="integer-overflow.md">Целочисленное переполнение >>></a>
+[<<< Представление чисел в памяти ПК](numbers-in-memory.md) | [Оглавление](toc.md) | [Целочисленное переполнение >>>](integer-overflow.md)
 </div>
