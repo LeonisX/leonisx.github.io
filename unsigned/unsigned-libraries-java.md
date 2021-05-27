@@ -5,7 +5,7 @@
 
 Универсального решения, конечно, не существует, но на фоне остальных своей зрелостью выделяется Google Guava.
 
-|              | [Google Guava](https://github.com/google/guava/tree/master/guava/src/com/google/common/primitives) | [jOOU](https://github.com/jOOQ/jOOU/tree/main/jOOU/src/main/java/org/joou) | [Apache Axis](https://github.com/robig/axis2-adb/tree/master/src/main/java/org/apache/axis2/databinding/types) | [OPC Foundation](https://github.com/OPCFoundation/UA-Java-Legacy/tree/master/src/main/java/org/opcfoundation/ua/builtintypes) | [JNIWrapper](https://www.teamdev.com/downloads/jniwrapper/javadoc/com/jniwrapper/package-summary.html) | [YSTT](https://github.com/LeonisX/yoda-stories-translation-tool/blob/main/src/main/java/md/leonis/bin/Dump.java) |
+|              | [Guava](https://github.com/google/guava/tree/master/guava/src/com/google/common/primitives) | [jOOU](https://github.com/jOOQ/jOOU/tree/main/jOOU/src/main/java/org/joou) | [Apache Axis](https://github.com/robig/axis2-adb/tree/master/src/main/java/org/apache/axis2/databinding/types) | [OPC Foundation](https://github.com/OPCFoundation/UA-Java-Legacy/tree/master/src/main/java/org/opcfoundation/ua/builtintypes) | [JNIWrapper](https://www.teamdev.com/downloads/jniwrapper/javadoc/com/jniwrapper/package-summary.html) | [YSTT](https://github.com/LeonisX/yoda-stories-translation-tool/blob/main/src/main/java/md/leonis/bin/Dump.java) |
 |     :---:    |     :---:    |     :---:   |     :---:     |     :---:     |     :---:      |     :---:      |
 | Создание     |	***	      | ***         |	*** |	*** |	*** |	*** |
 | Передача     |	***	      | ***         |	*** |	*** |	*** |	-   |
