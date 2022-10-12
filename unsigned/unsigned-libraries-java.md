@@ -309,15 +309,12 @@ public int getWord() {
   int result;
   switch (byteOrder) {
     case LITTLE_ENDIAN:
-    result = Byte.toUnsignedInt(dump[index]);
-    index++;
-    result += Byte.toUnsignedInt(dump[index]) * 256;
-    index++;
+    result = Byte.toUnsignedInt(dump[index++]);
+    result += Byte.toUnsignedInt(dump[index++]) * 256;
     break;
   default:
-    result = Byte.toUnsignedInt(dump[index]) * 256;
-    index++;
-    result += Byte.toUnsignedInt(dump[index]);
+    result = Byte.toUnsignedInt(dump[index++]) * 256;
+    result += Byte.toUnsignedInt(dump[index++]);
     index++;
     break;
   }
@@ -340,7 +337,7 @@ public int getWord() {
 *	findAddressWithMask
 *	get/setCharset.
 
-Кодировка необходима, если извлекаются строковые значения. По умолчанию это `Cp2152`.
+Кодировка необходима, если извлекаются строковые значения. По умолчанию это `Cp1252`.
 
 Пожалуй, это всё, что хотелось рассказать про работу с беззнаковыми типами в Java. Если у вас есть вопросы, или вы заметили какие-то неточности или недочёты, то обязательно напишите мне. Благодарю.
 
